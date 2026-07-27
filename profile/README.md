@@ -14,8 +14,8 @@ Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop inclu
 
 
 > https://slopscan.ava.pet/repo/https%3A%2F%2Fgithub%2Ecom%2FFabricMC%2Ffabric%2Dapi<br/>
-> https://github.com/FabricMC/fabric-api/commits/645ba9f60dea308979d01eeec1f6352c5bfc20c3<br/>
-> *modmuss50 is the author of FabricMC*
+> https://github.com/FabricMC/fabric-api/commits/645ba9f60dea308979d01eeec1f6352c5bfc20c3<br/><br/>
+> *modmuss50, the commit author, is the author of FabricMC*
 
 ### 🆎 What about other modloaders
 
