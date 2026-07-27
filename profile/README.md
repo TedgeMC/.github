@@ -1,8 +1,8 @@
-## 🐻 Tedge ModLoader
+# 🐻 Tedge ModLoader
 
 Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop includes vs code).
 
-### 🧻 Why not Fabric
+## 🧻 Why not Fabric
 
 <img width="975" height="214" alt="{04BA0E9E-0B59-4222-A2F6-62ED8A5A9EC2}" src="https://github.com/user-attachments/assets/48a4a198-0231-4629-9ae0-9ee0972dd306" />
 
@@ -17,7 +17,7 @@ Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop inclu
 > https://github.com/FabricMC/fabric-api/commits/645ba9f60dea308979d01eeec1f6352c5bfc20c3<br/><br/>
 > *modmuss50, the commit author, is the author of FabricMC*
 
-### 🆎 What about other modloaders
+## 🆎 What about other modloaders
 
 **<u>__[NOTE: TEDGE IS NOT DONE YET SO ITS NOT MUCH BETTER RIGHT NOW ITS JUST A LIST OF SOME ISSUES FROM OTHER MODLOADERS]__</u>**
 
@@ -33,3 +33,17 @@ For example I couldn't inject into a method from the CommonHooks class (for some
 **LiteLoader** no longer receives updates.
 
 **Rift** is abandoned.
+
+## 🤖 All modloaders' AI use
+
+**NeoForge**: seems like none, however [they are integrating with a platform that AI seems to be the top priority of](github.com/neoforged/n8n-plugin)<br/>
+**Fabric**: already shown on the top of the doc<br/>
+**Quilt**: seems like none, I've scanned like 15 of their repos; may be missing something out from outside the project setup though.<br/>
+&emsp;&emsp;&ensp;&nbsp;also, they're a Fabric fork, so it's not really a viable option.
+
+**LiteLoader**: obviously none it's old as fuck and not updated anymore<br/>
+**Rift**: obviously none it's also old as fuck and not updated anymore
+
+##### The rest are probably human, as legacy versions are not that popular.<br/>Which ai slopcode creators would probably target the popular things.
+
+###### If you see any issues in here, dm me on discord or make me an issue on the TedgeMC/.github repository. Thanks
