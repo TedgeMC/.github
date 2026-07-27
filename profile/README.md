@@ -16,3 +16,20 @@ Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop inclu
 > https://slopscan.ava.pet/repo/https%3A%2F%2Fgithub%2Ecom%2FFabricMC%2Ffabric%2Dapi<br/>
 > https://github.com/FabricMC/fabric-api/commits/645ba9f60dea308979d01eeec1f6352c5bfc20c3<br/>
 > *modmuss50 is the author of FabricMC*
+
+### 🆎 What about other modloaders
+
+**<u>__[NOTE: TEDGE IS NOT DONE YET SO ITS NOT MUCH BETTER RIGHT NOW ITS JUST A LIST OF SOME ISSUES FROM OTHER MODLOADERS]__</u>**
+
+**Forge**'s whole team moved onto their new fork of it, NeoForge.<br/>
+This is because (they say) the main Forge leader, *lex*, is toxic, unwelcoming and bans devs for asking about coremods. (like wtf dude)
+
+**NeoForge** has a weird mixin system and probably needs coremods for some of it.<br/>
+For example I couldn't inject into a method from the CommonHooks class (for some reason).
+
+**Quilt**, **Legacy Fabric** and **Ornithe** are based on Fabric.<br/>
+**Babric** and **BTA** are also based on Fabric.
+
+**LiteLoader** no longer receives updates.
+
+**Rift** is abandoned.
