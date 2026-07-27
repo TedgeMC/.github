@@ -24,7 +24,7 @@ Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop inclu
 **Forge**'s whole team moved onto their new fork of it, NeoForge.<br/>
 This is because (they say) the main Forge leader, *lex*, is toxic, unwelcoming and bans devs for asking about coremods. (like wtf dude)
 
-**NeoForge** has a weird mixin system and probably needs coremods for some of it.<br/>
+**NeoForge** has a weird mixin system and probably still needs coremods for some of it.<br/>
 For example I couldn't inject into a method from the CommonHooks class (for some reason).
 
 **Quilt**, **Legacy Fabric** and **Ornithe** are based on Fabric.<br/>
