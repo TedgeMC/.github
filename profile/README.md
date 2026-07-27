@@ -36,7 +36,7 @@ For example I couldn't inject into a method from the CommonHooks class (for some
 
 ## 🤖 All modloaders' AI use
 
-**NeoForge**: seems like none, however [they are integrating with a platform that AI seems to be the top priority of](github.com/neoforged/n8n-plugin)<br/>
+**NeoForge**: seems like none, however [they are integrating with a platform that AI seems to be the top priority of](https://github.com/neoforged/n8n-plugin)<br/>
 **Fabric**: already shown on the top of the doc<br/>
 **Quilt**: seems like none, I've scanned like 15 of their repos; may be missing something out from outside the project setup though.<br/>
 &emsp;&emsp;&ensp;&nbsp;also, they're a Fabric fork, so it's not really a viable option.
