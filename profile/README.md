@@ -17,6 +17,13 @@ Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop inclu
 > https://github.com/FabricMC/fabric-api/commits/645ba9f60dea308979d01eeec1f6352c5bfc20c3<br/><br/>
 > *modmuss50, the commit author, is the author of FabricMC*
 
+<br/>
+
+<img width="322" height="383" alt="{031E37FC-8DA8-4520-8469-ADAECA6FA4A8}" src="https://github.com/user-attachments/assets/f25e9b86-09bf-44e6-a5ef-e6ee9cd85516" />
+
+
+> Fabric Loom vibecoding moment (I only support 7 versions)
+
 ## 🆎 What about other modloaders
 
 **<u>__[NOTE: TEDGE IS NOT DONE YET SO ITS NOT MUCH BETTER RIGHT NOW ITS JUST A LIST OF SOME ISSUES FROM OTHER MODLOADERS]__</u>**
