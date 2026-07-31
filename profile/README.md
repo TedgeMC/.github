@@ -22,7 +22,7 @@ Modern Minecraft ModLoader. Made fully by humans, no glazing ai slop (slop inclu
 <img width="322" height="383" alt="{031E37FC-8DA8-4520-8469-ADAECA6FA4A8}" src="https://github.com/user-attachments/assets/f25e9b86-09bf-44e6-a5ef-e6ee9cd85516" />
 
 
-> Fabric Loom vibecoding moment (I only support 7 versions)
+> Fabric Loom vibecoding moment (it's a screenshot from my .gradle project directory from the [Avoid Framework](https://github.com/AvoidLib/Avoid))
 
 ## 🆎 What about other modloaders
 
