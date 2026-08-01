@@ -2,7 +2,7 @@
 
 # 🐻 <font color="#c28465">Tedge ModLoader</font>
 
-Modern Minecraft ModLoader made by 100% human.<br/>
+Modern Minecraft ModLoader made by 100% humans.<br/>
 No AI usage was involved in any of TedgeMC's projects.
 
 <br/>
