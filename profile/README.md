@@ -32,7 +32,7 @@ TedgeMC maintains its own:
 
 ### 📤 The first non-Fabric new modloader
 
-Fabric developers like AI so much, they even used them integrated into an IDE;
+Fabric developers use AI... and it reflects on the code quality;
 
 <table>
   <tr>
