@@ -50,7 +50,7 @@ Fabric developers like AI so much, they even used them integrated into an IDE;
   <tr>
     <td align="center">
       <img width="322" height="283" alt="{031E37FC-8DA8-4520-8469-ADAECA6FA4A8}" src="https://github.com/user-attachments/assets/f25e9b86-09bf-44e6-a5ef-e6ee9cd85516" />
-      <p><i>Fabric Loom vibecoding moment (it's a screenshot from my .gradle project directory from the <a href="https://github.com/AvoidLib/Avoid">Avoid Framework</a></i>; it only supports ~7 versions)</p>
+      <p><i>Fabric Loom vibecoding moment (it's a screenshot from my .gradle project directory from the <a href="https://github.com/AvoidLib/Avoid">Avoid Framework</a>; it only supports ~7 versions)</i></p>
     </td>
   </tr>
 </table>
