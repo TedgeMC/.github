@@ -32,19 +32,15 @@ TedgeMC maintains its own:
 
 ### 📤 The first non-Fabric new modloader
 
-Fabric developers use AI... and it reflects on the code quality;
+Tedge tries to fix areas that Fabric missed.
+
+<!-- Note: the anti ai usage is still a thing but i think its not that important to tell everyone when it was 2 screenshots that were bad. like i know its bad but after all there are worst cases than that. aside, most people don't care anyway -->
 
 <table>
   <tr>
     <td align="center">
       <img width="675" alt="{04BA0E9E-0B59-4222-A2F6-62ED8A5A9EC2}" src="https://github.com/user-attachments/assets/48a4a198-0231-4629-9ae0-9ee0972dd306" />
       <p><i>earthcomputer is a FabricMC maintainer</i></p>
-    </td>
-    <td align="center">
-      <img width="294" height="150" alt="{38C6F1F7-23A1-4FC8-B666-8EA0F59DD67E}" src="https://github.com/user-attachments/assets/e799090d-9973-43b3-b543-86cded80b025" />
-      <!--https://slopscan.ava.pet/repo/https%3A%2F%2Fgithub%2Ecom%2FFabricMC%2Ffabric%2Dapi<br/>
-      https://github.com/FabricMC/fabric-api/commits/645ba9f60dea308979d01eeec1f6352c5bfc20c3<br/><br/>-->
-      <p><i>modmuss50, the commit author, is the author of FabricMC</i></p>
     </td>
   </tr>
   <tr>
