@@ -34,6 +34,8 @@ TedgeMC maintains its own:
 
 Tedge tries to fix areas that Fabric missed.
 
+<!-- Anti-fabric marketing shouldn't really be used here. It's an unethical way of it -->
+
 <!-- Note: the anti ai usage is still a thing but i think its not that important to tell everyone when it was 2 screenshots that were bad. like i know its bad but after all there are worst cases than that. aside, most people don't care anyway -->
 
 <table>
