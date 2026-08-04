@@ -46,7 +46,7 @@ Tedge tries to fix areas that Fabric missed.
   <tr>
     <td align="center">
       <img width="322" height="283" alt="{031E37FC-8DA8-4520-8469-ADAECA6FA4A8}" src="https://github.com/user-attachments/assets/f25e9b86-09bf-44e6-a5ef-e6ee9cd85516" />
-      <p><i>Fabric Loom vibecoding moment (it's a screenshot from my .gradle project directory from the <a href="https://github.com/AvoidLib/Avoid">Avoid Framework</a>; it only supports ~7 versions)</i></p>
+      <p><i>Fabric Loom vibecoding moment</i></p>
     </td>
   </tr>
 </table>
