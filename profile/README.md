@@ -30,13 +30,22 @@ TedgeMC maintains its own:
 <hr/>
 <br/>
 
-### 📤 The first non-Fabric new modloader
+### 📤 The first fully new modloader
 
-Tedge tries to fix areas that Fabric missed.
+The Minecraft modloader community is fucking tragic.<br/><br/>
 
-<!-- Anti-fabric marketing shouldn't really be used here. It's an unethical way of it -->
+<div>
 
-<!-- Note: the anti ai usage is still a thing but i think its not that important to tell everyone when it was 2 screenshots that were bad. like i know its bad but after all there are worst cases than that. aside, most people don't care anyway -->
+1. [Forge and NeoForge lead developers are super toxic.](https://web.archive.org/web/20200718035108/https://gist.github.com/jellysquid3/8b68b81a5e48462f8690284a0a3c89a1) Lex is in the Forge team, CPW moved to NeoForge;
+2. [Fabric devs use AI for code](#-fabric-ai-use), which from my experience, reflects on their code quality and worsens their tools.
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+### 🤖 Fabric AI use
 
 <table>
   <tr>
@@ -44,17 +53,18 @@ Tedge tries to fix areas that Fabric missed.
       <img width="675" alt="{04BA0E9E-0B59-4222-A2F6-62ED8A5A9EC2}" src="https://github.com/user-attachments/assets/48a4a198-0231-4629-9ae0-9ee0972dd306" />
       <p><i>earthcomputer is a FabricMC maintainer</i></p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="322" height="283" alt="{031E37FC-8DA8-4520-8469-ADAECA6FA4A8}" src="https://github.com/user-attachments/assets/f25e9b86-09bf-44e6-a5ef-e6ee9cd85516" />
       <p><i>Fabric Loom vibecoding moment</i></p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img width="514" height="170" alt="{880F6ECD-8CA7-4C9C-BA6F-1A151A73CB1E}" src="https://github.com/user-attachments/assets/5e1ec193-d9b2-4cef-b1c4-c682834d06d3" />
+      <p><i>Yea.. whatever ts is</i></p>
+    </td>
+  </tr>
 </table>
-
-
-</div>
 
 
 ###### If you see any issues in here, dm me on discord or make me an issue on the TedgeMC/.github repository. Thanks
