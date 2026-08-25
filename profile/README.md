@@ -36,8 +36,22 @@ The Minecraft modloader community is fucking tragic.<br/><br/>
 
 <div>
 
-1. [Forge and NeoForge lead developers are super toxic.](https://web.archive.org/web/20200718035108/https://gist.github.com/jellysquid3/8b68b81a5e48462f8690284a0a3c89a1) Lex is in the Forge team, CPW moved to NeoForge;
-2. [Fabric devs use AI for code](#-fabric-ai-use), which from my experience, reflects on their code quality and worsens their tools.
+<span>1</span>. [Forge and NeoForge lead developers are super toxic.](https://web.archive.org/web/20200718035108/https://gist.github.com/jellysquid3/8b68b81a5e48462f8690284a0a3c89a1) Lex is in the Forge team, CPW moved to NeoForge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<span>2</span>. [Fabric devs use AI for code](#-fabric-ai-use), which from my experience, reflects on their code quality and worsens their tools.
+
+</div>
+
+<br>
+
+Basically, we're forced to use:
+
+<br/>
+
+<div>
+
+a) a tool made by a bad person,<br/>
+b) a tool made by a bad person,<br/>
+c) ai slop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&ensp;&ensp;
 
 </div>
 
