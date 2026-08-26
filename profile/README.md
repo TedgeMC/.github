@@ -86,6 +86,6 @@ Look at the third screenshot. Why does building Fabric API take hours lmfao? Sur
 and there's also ways to reduce that time. Not sure what causes it in Fabric API, but none of my software builds that long.
 <h6>* true, (Neo)Forge is enormously worse at it.</h6>
 <br/><br/>
-Of course not all Fabric maintainers use AI. Most probably aren't.
+Of course not all Fabric maintainers use AI. Most probably don't.
 <br/><br/><br/><br/>
 ###### If you see any issues in here, dm me on discord or make me an issue on the TedgeMC/.github repository. Thanks
