@@ -80,7 +80,7 @@ c) ai slop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
   </tr>
 </table>
 <br/><br/><br>
-**Why do I not like the fact that Fabric uses AI?**<br/><br/>
+<b>Why do I not like the fact that Fabric uses AI?</b><br/><br/>
 Because there are multiple issues in Fabric, like the large disk space usage*, which AI will probably make even worse.<br/>
 Look at the third screenshot. Why does building Fabric API take hours lmfao? Sure, there's probably reasons for it...<br/>
 and there's also ways to reduce that time. Not sure what causes it in Fabric API, but none of my software builds that long.
