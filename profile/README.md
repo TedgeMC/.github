@@ -88,4 +88,5 @@ and there's also ways to reduce that time. Not sure what causes it in Fabric API
 <br/><br/>
 Of course not all Fabric maintainers use AI. Most probably don't.
 <br/><br/><br/><br/>
+
 ###### If you see any issues in here, dm me on discord or make me an issue on the TedgeMC/.github repository. Thanks
