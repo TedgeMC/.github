@@ -79,6 +79,11 @@ c) ai slop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
     </td>
   </tr>
 </table>
-
-
+<br/><br/><br>
+Why do I not like the fact that Fabric uses AI?<br/>
+Because there are multiple issues in Fabric, like the large disk space usage*, which AI will probably make even worse.<br/>
+<h6>* true, (Neo)Forge is enormously worse at it.</h6>
+<br/><br/>
+Of course not all Fabric maintainers use AI. Most probably aren't.
+<br/><br/><br/><br/>
 ###### If you see any issues in here, dm me on discord or make me an issue on the TedgeMC/.github repository. Thanks
