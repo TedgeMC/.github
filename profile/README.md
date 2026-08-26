@@ -30,7 +30,7 @@ TedgeMC maintains its own:
 <hr/>
 <br/>
 
-### 📤 The first fully new modloader
+### 📤 The first non-forked new modloader
 
 The Minecraft modloader community is fucking tragic.<br/><br/>
 
