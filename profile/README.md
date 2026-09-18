@@ -75,7 +75,7 @@ c) ai slop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
   <tr>
     <td align="center">
       <img width="514" height="170" alt="{880F6ECD-8CA7-4C9C-BA6F-1A151A73CB1E}" src="https://github.com/user-attachments/assets/5e1ec193-d9b2-4cef-b1c4-c682834d06d3" />
-      <p><i>modmuss50 is the FabricMC founder</i></p>
+      <p><i>modmuss50 is the FabricMC lead developer</i></p>
     </td>
   </tr>
 </table>
