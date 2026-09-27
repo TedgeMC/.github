@@ -24,6 +24,11 @@ TedgeMC maintains its own:
     <td>decompiler <i>(not available yet)</i></td>
     <td>licenses</td>
   </tr>
+  <tr>
+    <td>remapper <i>(alpha)</i></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <br/>
