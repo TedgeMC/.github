@@ -49,8 +49,8 @@ Basically, we're forced to use:
 
 <div>
 
-a) a tool made by a bad person,<br/>
-b) a tool made by a bad person,<br/>
+a) a tool made by a person we wouldn't want to talk to,<br/>
+b) a tool made by a person we wouldn't want to talk to,<br/>
 c) ai slop.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&ensp;&ensp;
 
 </div>
