@@ -25,7 +25,7 @@ TedgeMC maintains its own:
     <td>licenses</td>
   </tr>
   <tr>
-    <td>remapper <i>(alpha)</i></td>
+    <td>remapper <i>(in heavy dev, not ready for use yet)</i></td>
     <td></td>
     <td></td>
   </tr>
